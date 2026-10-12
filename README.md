@@ -89,6 +89,12 @@ Examples of the cleaning and validation work include:
 - Preserving one row per ZIP code in a geolocation lookup to avoid row multiplication during joins.
 - Validating order, payment, review, customer, product, and seller identifiers before analysis.
 
+## Download the Full Workbook
+
+The complete Excel and Power Query workbook is available as a GitHub Release.
+
+[Download Olist_Ecommerce_Analysis.xlsx](https://github.com/reechardibrahim147/olist-ecommerce-performance-analysis/releases/download/v1.0/Olist_Ecommerce_Analysis.xlsx)
+
 ## Dashboard
 
 The final Excel dashboard presents four core KPIs and four supporting visual analyses:
@@ -100,7 +106,7 @@ The final Excel dashboard presents four core KPIs and four supporting visual ana
 
 A final business-insights section summarizes the main findings for decision-makers.
 
-![Olist E-Commerce Performance Dashboard](images/dashboard.png)
+![Olist E-Commerce Performance Dashboard](dashboard.png)
 
 ## Workbook Structure
 
@@ -128,13 +134,11 @@ Raw and helper tables are preserved in the workbook but hidden to keep the final
 
 ## Repository Structure
 
-```text
 olist-ecommerce-performance-analysis/
 ├── README.md
-├── workbook/
-│   └── Olist_Ecommerce_Analysis.xlsx
-└── images/
-    └── dashboard.png
+└── dashboard.png
+
+Full Excel workbook: available in the GitHub Releases section (v1.0).
 ```
 
 ## Project Takeaway
