@@ -134,12 +134,14 @@ Raw and helper tables are preserved in the workbook but hidden to keep the final
 
 ## Repository Structure
 
+```text
 olist-ecommerce-performance-analysis/
 ├── README.md
 └── dashboard.png
 
-Full Excel workbook: available in the GitHub Releases section (v1.0).
+
 ```
+Full Excel workbook: available in the GitHub Releases section (**v1.0**).
 
 ## Project Takeaway
 
